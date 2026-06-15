@@ -1,0 +1,4 @@
+/
+/saludo
+/mensaje/:nombre
+POST /reporte

@@ -1,0 +1,5 @@
+La ruta POST /reporte 
+sirve para enviar información
+desde el cliente al servidor,
+por ejemplo reportes o
+solicitudes de la comunidad.
